@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=6c09b952595pqfmoazz55idln1qaim3fzzt6jvk3ph2bq7y6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hou222&label=Profile%20views&color=0e75b6&style=flat" alt="hou222" /> </p>
+
 
 - 🌱 I’m currently learning **Typescript**
 
